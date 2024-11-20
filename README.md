@@ -48,7 +48,7 @@ with a header, sidebar, and content area.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Dashboard.git
+   git clone git@github.com:sims04/Dashboard.git
    cd Dashboard
 
 2. Open index.html in Your Browser.
