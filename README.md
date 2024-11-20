@@ -1,9 +1,7 @@
 # Dashboard
 
-# Dashboard Project
-
-This project is a responsive **Dashboard UI** built with **HTML**, **CSS (Grid)**. It features a clean, grid-based layout 
-with a header, sidebar, and content area, designed for ease of navigation and a user-friendly experience.
+This project is a static **Dashboard UI** built with **HTML**, **CSS (Grid)**. It features a clean, grid-based layout 
+with a header, sidebar, and content area.
 
 ---
 
@@ -52,3 +50,11 @@ with a header, sidebar, and content area, designed for ease of navigation and a 
    ```bash
    git clone https://github.com/your-username/Dashboard.git
    cd Dashboard
+
+2. Open index.html in Your Browser.
+
+##Future Enhancements
+
+- Interactivity: Adding JavaScript for dynamic updates.
+- Responsive Design: Ensuring the dashboard works well on mobile devices.
+- Backend Integration: Connect with APIs to fetch real-time data. 
