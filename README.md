@@ -53,7 +53,7 @@ with a header, sidebar, and content area.
 
 2. Open index.html in Your Browser.
 
-##Future Enhancements
+## Future Enhancements
 
 - Interactivity: Adding JavaScript for dynamic updates.
 - Responsive Design: Ensuring the dashboard works well on mobile devices.
